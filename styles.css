@@ -4,6 +4,7 @@ body{
     margin: 0px;
     font-family: "chakra Petch", sans-serif;
     margin-bottom: 100px;
+
 }
 
 header{
@@ -11,6 +12,7 @@ header{
     padding: 20px;
     font-size: 32px;
     color: rgb(42, 122, 228);
+
 }
 
 .chamada {
@@ -19,8 +21,6 @@ header{
     padding-top: 80px;
     display:flex;
     justify-content: center;
-
-
 
 }
 
@@ -62,4 +62,5 @@ p{
 .categoria-videos img:hover {
     opacity: 1.0;
     border: 3px solid color
+    
 }
